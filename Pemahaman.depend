@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1527649553 source:d:\alpro11\pemahaman\fungsi.c
+	"header.h"
+
+1527649336 d:\alpro11\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1527649432 source:d:\alpro11\pemahaman\main.c
+	"header.h"
+
+1527649554 source:e:\alpro\alpro11\pemahaman\fungsi.c
+	"header.h"
+
+1527649338 e:\alpro\alpro11\pemahaman\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1527649570 source:e:\alpro\alpro11\pemahaman\main.c
+	"header.h"
+
